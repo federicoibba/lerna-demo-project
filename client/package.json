@@ -1,0 +1,20 @@
+{
+  "name": "@monorepo/client",
+  "version": "3.8.18",
+  "description": "Client library in the demo project",
+  "keywords": [
+    "monorepo",
+    "lerna",
+    "core"
+  ],
+  "license": "ISC",
+  "author": "Federico Ibba",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@monorepo/core": "1.0.3"
+  }
+}

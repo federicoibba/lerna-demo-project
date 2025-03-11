@@ -1,0 +1,17 @@
+{
+  "name": "@monorepo/core",
+  "version": "1.0.3",
+  "description": "Core library in the demo project",
+  "keywords": [
+    "monorepo",
+    "lerna",
+    "core"
+  ],
+  "license": "ISC",
+  "author": "Federico Ibba",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
