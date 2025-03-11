@@ -2,6 +2,7 @@
   "name": "@monorepo/core",
   "version": "1.0.3",
   "description": "Core library in the demo project",
+  "repository": "https://github.com/federicoibba/lerna-demo-project.git",
   "keywords": [
     "monorepo",
     "lerna",

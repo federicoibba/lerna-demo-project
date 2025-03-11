@@ -2,6 +2,7 @@
   "name": "@monorepo/blog",
   "version": "1.0.0",
   "description": "Demo project for demo article about Monorepo versioning and Lerna",
+  "repository": "https://github.com/federicoibba/lerna-demo-project.git",
   "keywords": [
     "lerna",
     "monorepo"

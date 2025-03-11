@@ -2,10 +2,11 @@
   "name": "@monorepo/client",
   "version": "3.8.18",
   "description": "Client library in the demo project",
+  "repository": "https://github.com/federicoibba/lerna-demo-project.git",
   "keywords": [
     "monorepo",
     "lerna",
-    "core"
+    "client"
   ],
   "license": "ISC",
   "author": "Federico Ibba",
